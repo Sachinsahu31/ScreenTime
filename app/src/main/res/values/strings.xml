@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScreenTime</string>
+    <!-- res/values/strings.xml -->
+        <string-array name="sort_options">
+            <item>Ascending Time</item>
+            <item>Descending Time</item>
+            <item>Ascending Name</item>
+            <item>Descending Name</item>
+        </string-array>
+
+</resources>
